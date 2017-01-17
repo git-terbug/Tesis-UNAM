@@ -100,4 +100,4 @@ Marca varias advertencias al compilar, varias de ellas tienen que ver con que el
 
 Si les da una advertencia de referencias no definidas, compilen el archivo "tesis.tex" con BibTeX.
 
-Las adevrtencias de fuera de margen son de la portada.
+Las advertencias de fuera de margen son de la portada.
